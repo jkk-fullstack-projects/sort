@@ -1,0 +1,16 @@
+# Directories
+node_modules/
+public/dist/
+.netlify/
+build/
+
+# Log files
+yarn-error.log
+
+# Environment files
+.env
+.env.test
+.env.development
+
+# Config files
+tsconfig.json
